@@ -1,0 +1,1048 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = 5267146274694810612
+	string m_Name = "patch"
+	Entry Table
+		Array Array
+		int size = 258
+			[0]
+			Entry data
+				string Key = "apple_login_button"
+				string Translation = "Apple"
+			[1]
+			Entry data
+				string Key = "avatar_f_backpack_genesecteventitem_0_bundle_icon"
+				string Translation = "蓋諾賽克特背包"
+			[2]
+			Entry data
+				string Key = "avatar_f_hat_genesecteventitem_0_bundle_icon"
+				string Translation = "蓋諾賽克特棒球帽"
+			[3]
+			Entry data
+				string Key = "avatar_f_hat_woobatearrings_0_bundle_icon"
+				string Translation = "滾滾蝙蝠耳環"
+			[4]
+			Entry data
+				string Key = "avatar_f_pants_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚破洞牛仔褲"
+			[5]
+			Entry data
+				string Key = "avatar_f_shirt_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚帽T"
+			[6]
+			Entry data
+				string Key = "avatar_f_shirt_pkmnshirts_165_bundle_icon"
+				string Translation = "Pokémon Shirts 芭瓢蟲"
+			[7]
+			Entry data
+				string Key = "avatar_f_shirt_pkmnshirts_188_bundle_icon"
+				string Translation = "Pokémon Shirts 毽子花"
+			[8]
+			Entry data
+				string Key = "avatar_f_shirt_pkmnshirts_201_bundle_icon"
+				string Translation = "Pokémon Shirts 未知圖騰"
+			[9]
+			Entry data
+				string Key = "avatar_f_shirt_pkmnshirts_238_bundle_icon"
+				string Translation = "Pokémon Shirts 迷唇娃"
+			[10]
+			Entry data
+				string Key = "avatar_f_shirt_safarizone2020_0_bundle_icon"
+				string Translation = "Safari Zone T恤 2020"
+			[11]
+			Entry data
+				string Key = "avatar_f_shirt_safarizone2020_bundle_icon"
+				string Translation = "Safari Zone T恤 2020"
+			[12]
+			Entry data
+				string Key = "avatar_f_shoes_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚休閒鞋"
+			[13]
+			Entry data
+				string Key = "avatar_m_backpack_genesecteventitem_0_bundle_icon"
+				string Translation = "蓋諾賽克特背包"
+			[14]
+			Entry data
+				string Key = "avatar_m_hat_genesecteventitem_0_bundle_icon"
+				string Translation = "蓋諾賽克特棒球帽"
+			[15]
+			Entry data
+				string Key = "avatar_m_hat_woobatearrings_0_bundle_icon"
+				string Translation = "滾滾蝙蝠耳環"
+			[16]
+			Entry data
+				string Key = "avatar_m_pants_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚破洞牛仔褲"
+			[17]
+			Entry data
+				string Key = "avatar_m_shirt_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚帽T"
+			[18]
+			Entry data
+				string Key = "avatar_m_shirt_pkmnshirts_165_bundle_icon"
+				string Translation = "Pokémon Shirts 芭瓢蟲"
+			[19]
+			Entry data
+				string Key = "avatar_m_shirt_pkmnshirts_188_bundle_icon"
+				string Translation = "Pokémon Shirts 毽子花"
+			[20]
+			Entry data
+				string Key = "avatar_m_shirt_pkmnshirts_201_bundle_icon"
+				string Translation = "Pokémon Shirts 未知圖騰"
+			[21]
+			Entry data
+				string Key = "avatar_m_shirt_pkmnshirts_238_bundle_icon"
+				string Translation = "Pokémon Shirts 迷唇娃"
+			[22]
+			Entry data
+				string Key = "avatar_m_shirt_safarizone2020_0_bundle_icon"
+				string Translation = "Safari Zone T恤 2020"
+			[23]
+			Entry data
+				string Key = "avatar_m_shirt_safarizone2020_bundle_icon"
+				string Translation = "Safari Zone T恤 2020"
+			[24]
+			Entry data
+				string Key = "avatar_m_shoes_luvdiscpack_0_bundle_icon"
+				string Translation = "愛心魚休閒鞋"
+			[25]
+			Entry data
+				string Key = "badge_buddy_best"
+				string Translation = "擁有 {0} 個正港好夥伴"
+			[26]
+			Entry data
+				string Key = "badge_buddy_best_singular"
+				string Translation = "擁有1個正港好夥伴"
+			[27]
+			Entry data
+				string Key = "badge_buddy_best_title"
+				string Translation = "正港好夥伴"
+			[28]
+			Entry data
+				string Key = "badge_city_explorer_pass_00"
+				string Translation = "Test, 2020"
+			[29]
+			Entry data
+				string Key = "badge_city_explorer_pass_00_title"
+				string Translation = "City Explorer Pass"
+			[30]
+			Entry data
+				string Key = "badge_city_explorer_pass_01"
+				string Translation = "St. Louis, 2020"
+			[31]
+			Entry data
+				string Key = "badge_city_explorer_pass_01_title"
+				string Translation = "City Explorer Pass"
+			[32]
+			Entry data
+				string Key = "badge_event_0001"
+				string Translation = "2020年3月22日"
+			[33]
+			Entry data
+				string Key = "badge_event_0001_title"
+				string Translation = "直擊！古生代寶可夢之謎！"
+			[34]
+			Entry data
+				string Key = "badge_event_0002"
+				string Translation = "2020年3月15日"
+			[35]
+			Entry data
+				string Key = "badge_event_0002_title"
+				string Translation = "念力寶可夢的超能力"
+			[36]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_00_earlyaccess"
+				string Translation = "Liverpool, April 16, 2020"
+			[37]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_00_earlyaccess_title"
+				string Translation = "Pokémon GO Safari Zone—Early Access"
+			[38]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_00_general"
+				string Translation = "Liverpool, April 16, 2020"
+			[39]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_00_general_title"
+				string Translation = "Pokémon GO Safari Zone"
+			[40]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_01_earlyaccess"
+				string Translation = "Liverpool, April 17, 2020"
+			[41]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_01_earlyaccess_title"
+				string Translation = "Pokémon GO Safari Zone—Early Access"
+			[42]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_01_general"
+				string Translation = "Liverpool, April 17, 2020"
+			[43]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_01_general_title"
+				string Translation = "Pokémon GO Safari Zone"
+			[44]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_02_earlyaccess"
+				string Translation = "Liverpool, April 18, 2020"
+			[45]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_02_earlyaccess_title"
+				string Translation = "Pokémon GO Safari Zone—Early Access"
+			[46]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_02_general"
+				string Translation = "Liverpool, April 18, 2020"
+			[47]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_02_general_title"
+				string Translation = "Pokémon GO Safari Zone"
+			[48]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_03_earlyaccess"
+				string Translation = "Liverpool, April 19, 2020"
+			[49]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_03_earlyaccess_title"
+				string Translation = "Pokémon GO Safari Zone—Early Access"
+			[50]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_03_general"
+				string Translation = "Liverpool, April 19, 2020"
+			[51]
+			Entry data
+				string Key = "badge_safarizone_2020_liverpool_day_03_general_title"
+				string Translation = "Pokémon GO Safari Zone"
+			[52]
+			Entry data
+				string Key = "buff_fully_stacked"
+				string Translation = "目前無法再次使用此道具，請稍後再試一次。"
+			[53]
+			Entry data
+				string Key = "bulk_upgrade_button_cannot_be_used"
+				string Translation = "This button cannot be used right now."
+			[54]
+			Entry data
+				string Key = "bulk_upgrade_final_confirmation"
+				string Translation = "Do you really want to power up {0}?"
+			[55]
+			Entry data
+				string Key = "challenge_aprilmay2020_vote_gastly_community_day"
+				string Translation = "為鬼斯社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[56]
+			Entry data
+				string Key = "challenge_aprilmay2020_vote_sandshrew_community_day"
+				string Translation = "為穿山鼠社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[57]
+			Entry data
+				string Key = "challenge_aprilmay2020_vote_squirtle_community_day"
+				string Translation = "為傑尼龜社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[58]
+			Entry data
+				string Key = "challenge_aprilmay2020_vote_weedle_community_day"
+				string Translation = "為獨角蟲社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[59]
+			Entry data
+				string Key = "challenge_augustseptember2020_vote_bulbasaur_community_day"
+				string Translation = "為妙蛙種子社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[60]
+			Entry data
+				string Key = "challenge_augustseptember2020_vote_exeggute_community_day"
+				string Translation = "為蛋蛋社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[61]
+			Entry data
+				string Key = "challenge_augustseptember2020_vote_magikarp_community_day"
+				string Translation = "為鯉魚王社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[62]
+			Entry data
+				string Key = "challenge_augustseptember2020_vote_starly_community_day"
+				string Translation = "為姆克兒社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[63]
+			Entry data
+				string Key = "challenge_junejuly2020_vote_caterpie_community_day"
+				string Translation = "為綠毛蟲社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[64]
+			Entry data
+				string Key = "challenge_junejuly2020_vote_charmander_community_day"
+				string Translation = "為小火龍社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[65]
+			Entry data
+				string Key = "challenge_junejuly2020_vote_grimer_community_day"
+				string Translation = "為臭泥社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[66]
+			Entry data
+				string Key = "challenge_junejuly2020_vote_porygon_community_day"
+				string Translation = "為多邊獸社群日投下神聖的一票！捕捉 {0} 隻寶可夢！"
+			[67]
+			Entry data
+				string Key = "daily_research_completed"
+				string Translation = "記得明天再回來看看喔"
+			[68]
+			Entry data
+				string Key = "daily_research_title"
+				string Translation = "每日課題"
+			[69]
+			Entry data
+				string Key = "explore_responsibly"
+				string Translation = "Explore Responsibly"
+			[70]
+			Entry data
+				string Key = "form_autumn"
+				string Translation = "秋天的樣子"
+			[71]
+			Entry data
+				string Key = "form_spring"
+				string Translation = "春天的樣子"
+			[72]
+			Entry data
+				string Key = "form_summer"
+				string Translation = "夏天的樣子"
+			[73]
+			Entry data
+				string Key = "form_winter"
+				string Translation = "冬天的樣子"
+			[74]
+			Entry data
+				string Key = "general1.ticket.1_description"
+				string Translation = "不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月22日10:00～20:00參加遊戲裡的「直擊！古生代寶可夢之謎！」的活動。詳情請至遊戲內快訊確認。
+
+請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。"
+			[75]
+			Entry data
+				string Key = "general1.ticket.1_title"
+				string Translation = "入場券：直擊！古生代寶可夢之謎！"
+			[76]
+			Entry data
+				string Key = "general1.ticket.2_description"
+				string Translation = "不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月15日11:00～18:00參加遊戲裡的「念力寶可夢的超能力」的活動。詳情請至遊戲內快訊確認。
+
+請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。"
+			[77]
+			Entry data
+				string Key = "general1.ticket.2_title"
+				string Translation = "入場券：念力寶可夢的超能力"
+			[78]
+			Entry data
+				string Key = "gt_2020_catch_easy"
+				string Translation = "直擊！古生代寶可夢之謎：捕捉 {0} 隻寶可夢"
+			[79]
+			Entry data
+				string Key = "gt_2020_friend_trade_medium"
+				string Translation = "直擊！古生代寶可夢之謎：和朋友交換1隻寶可夢"
+			[80]
+			Entry data
+				string Key = "gt_2020_land_great_inarow_easy"
+				string Translation = "直擊！古生代寶可夢之謎：連續投出 {0} 次Great"
+			[81]
+			Entry data
+				string Key = "gt_2020_land_nice_easy"
+				string Translation = "直擊！古生代寶可夢之謎：投出 {0} 次Nice"
+			[82]
+			Entry data
+				string Key = "gt_2020_spin_medium"
+				string Translation = "直擊！古生代寶可夢之謎：拜訪 {0} 個寶可補給站"
+			[83]
+			Entry data
+				string Key = "item_global_event_ticket_desc"
+				string Translation = "不論你在何處，都能在{0}的{1}到{2}（當地時間）參加特別活動的入場券。"
+			[84]
+			Entry data
+				string Key = "login_provider_apple"
+				string Translation = "Apple"
+			[85]
+			Entry data
+				string Key = "monodepth_ar_plus_required_toast"
+				string Translation = "Turn on Niantic AR to use occlusion."
+			[86]
+			Entry data
+				string Key = "monodepth_ar_plus_toggle_warning"
+				string Translation = "If you turn off Niantic AR, occlusion will be disabled, too."
+			[87]
+			Entry data
+				string Key = "move_name_0334"
+				string Translation = "岩石炮"
+			[88]
+			Entry data
+				string Key = "move_name_0335"
+				string Translation = "氣旋攻擊"
+			[89]
+			Entry data
+				string Key = "no_pokemon_in_gym_hint"
+				string Translation = "將寶可夢指派到道館，領取寶可幣！"
+			[90]
+			Entry data
+				string Key = "poi_removed_notification_owner"
+				string Translation = "Removed per the request of the property owner"
+			[91]
+			Entry data
+				string Key = "poi_removed_notification_request"
+				string Translation = "Removed upon request"
+			[92]
+			Entry data
+				string Key = "pokecoin_earned_today"
+				string Translation = "獲得枚數"
+			[93]
+			Entry data
+				string Key = "pokemon_catch_daily_quest_title"
+				string Translation = "每天捕捉寶可夢"
+			[94]
+			Entry data
+				string Key = "pokemon_info_multi_transfer_event_pokemon_final_confirmation"
+				string Translation = "Your selection contains event Pokémon! Are you certain you want to transfer them?"
+			[95]
+			Entry data
+				string Key = "pokemon_info_multi_transfer_not_transferable_pokemon_error"
+				string Translation = "This Pokémon cannot be transferred."
+			[96]
+			Entry data
+				string Key = "pokestop_spin_daily_quest_title"
+				string Translation = "每天拜訪寶可補給站"
+			[97]
+			Entry data
+				string Key = "quest_at_catch_a"
+				string Translation = "捕捉 {0} 隻凱西"
+			[98]
+			Entry data
+				string Key = "quest_at_evolve_a"
+				string Translation = "讓 {0} 隻凱西進化"
+			[99]
+			Entry data
+				string Key = "quest_at_evolve_k"
+				string Translation = "讓 {0} 隻勇基拉進化"
+			[100]
+			Entry data
+				string Key = "quest_catch_plural_unique"
+				string Translation = "捕捉 {0} 種不同的寶可夢"
+			[101]
+			Entry data
+				string Key = "quest_catch_special40_plural"
+				string Translation = "捕捉 {0} 隻凱西"
+			[102]
+			Entry data
+				string Key = "quest_complete_at"
+				string Translation = "念力寶可夢的超能力"
+			[103]
+			Entry data
+				string Key = "quest_complete_rockethq5"
+				string Translation = "來自暗影的威脅持續擴大"
+			[104]
+			Entry data
+				string Key = "quest_complete_rockethq6"
+				string Translation = "Time to Train"
+			[105]
+			Entry data
+				string Key = "quest_special_dialogue_at_0_0"
+				string Translation = "嘿，%PLAYERNAME%，好久不見了。你有發現附近出現了好多隻凱西嗎？"
+			[106]
+			Entry data
+				string Key = "quest_special_dialogue_at_0_1"
+				string Translation = "我原本以為牠們是沒辦法控制自己瞬間移動的能力才聚集到這裡來……"
+			[107]
+			Entry data
+				string Key = "quest_special_dialogue_at_0_2"
+				string Translation = "但據說當牠重複使用瞬間移動時，看起來就會像在分身一樣。"
+			[108]
+			Entry data
+				string Key = "quest_special_dialogue_at_0_3"
+				string Translation = "只不過這次的狀況似乎不太一樣。我們一起來看看為什麼會有這麼多凱西聚集在此，然後進一步研究一下這隻念力寶可夢吧。"
+			[109]
+			Entry data
+				string Key = "quest_special_dialogue_at_1_0"
+				string Translation = "幹得好，%PLAYERNAME%！凱西可不是一隻好捉的寶可夢啊。"
+			[110]
+			Entry data
+				string Key = "quest_special_dialogue_at_1_1"
+				string Translation = "據說捕捉凱西的時候要把心完全放空。"
+			[111]
+			Entry data
+				string Key = "quest_special_dialogue_at_1_2"
+				string Translation = "派出夥伴寶可夢來助你一臂之力或許也是個不錯的選擇。"
+			[112]
+			Entry data
+				string Key = "quest_special_dialogue_at_1_3"
+				string Translation = "我還想多研究一下凱西，可以請你幫我多捉幾隻嗎？我來幫你找找看有沒有什麼好東西可以給夥伴打賞。"
+			[113]
+			Entry data
+				string Key = "quest_special_dialogue_at_2_0"
+				string Translation = "我想你的夥伴一定很愛那美味的寶芬！雖然我個人比較支持凰梨果就是了。"
+			[114]
+			Entry data
+				string Key = "quest_special_dialogue_at_2_1"
+				string Translation = "在研究凱西的時候，我發現文獻裡提到說凱西連睡覺的時候都會開啟瞬間移動的雷達來偵側危險，這能力真是太驚人了！"
+			[115]
+			Entry data
+				string Key = "quest_special_dialogue_at_2_2"
+				string Translation = "我想再做進一步的調查，如果你願意幫忙，我可以提供火箭隊雷達做為報酬。"
+			[116]
+			Entry data
+				string Key = "quest_special_dialogue_at_2_3"
+				string Translation = "雖說火箭隊雷達沒辦法讓你像凱西一樣，能在睡夢中也偵側到危險，但它能協助你找到做壞事的GO火箭隊幹部。"
+			[117]
+			Entry data
+				string Key = "quest_special_dialogue_at_3_0"
+				string Translation = "%PLAYERNAME%，真是太感謝你了。很高興能和你一起研究凱西這隻有趣的寶可夢。"
+			[118]
+			Entry data
+				string Key = "quest_special_dialogue_at_3_1"
+				string Translation = "我們今天學到了很多，而且還有訓練家回報說他們捉到了異色形態的凱西呢。"
+			[119]
+			Entry data
+				string Key = "quest_special_dialogue_at_3_2"
+				string Translation = "寶可夢真的是一種很不可思議的生物，永遠都有無盡的新事物等著我們去探索。"
+			[120]
+			Entry data
+				string Key = "quest_special_dialogue_at_3_3"
+				string Translation = "下次再見囉，%PLAYERNAME%！"
+			[121]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_0_0"
+				string Translation = "嗨，%PLAYERNAME%。看來最近GO火箭隊似乎沒有太大的動作。"
+			[122]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_0_1"
+				string Translation = "這一切都是多虧有你大力相助，真的非常感謝你。"
+			[123]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_0_2"
+				string Translation = "GO火箭隊不會立刻離開，但只要有你們這些訓練家在，我想大家就能安心。"
+			[124]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_0_3"
+				string Translation = "當你們在發揮實力的同時，我也在尋找讓你們磨鍊技巧的機會。畢竟頂尖的訓練家也是要隨時保持警戒的！"
+			[125]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_0_4"
+				string Translation = "看到你們活用超級火箭隊雷達，我也很高興。希望你們接下來也好好加油！"
+			[126]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_1_0"
+				string Translation = "%PLAYERNAME%，你果然沒辜負我對你的期待！"
+			[127]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_1_1"
+				string Translation = "雖然我們跟GO火箭隊之間的戰爭已經持續了一段時間……"
+			[128]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_1_2"
+				string Translation = "可是還是有越來越多的寶可夢被他們變成暗影寶可夢。就我的觀察看來，暗影寶可夢的種類是一開始的三倍。"
+			[129]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_1_3"
+				string Translation = "我們必須繼續努力，拯救、淨化更多的寶可夢！"
+			[130]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_1_4"
+				string Translation = "我相信寶可夢們也一定在等待著你去拯救牠們！"
+			[131]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_2_0"
+				string Translation = "%PLAYERNAME%，謝謝你的幫忙。"
+			[132]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_2_1"
+				string Translation = "暗影寶可夢越來越多，我們得盡早解決這個問題……"
+			[133]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_2_2"
+				string Translation = "你已經證明了你隨時都可以挺身為寶可夢而戰。"
+			[134]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_2_3"
+				string Translation = "我希望你能在與GO火箭隊手下的對戰中，繼續磨鍊對戰技巧，確保自己處於最佳狀態。"
+			[135]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_3_0"
+				string Translation = "%PLAYERNAME%，你做得真是太好了！"
+			[136]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_3_1"
+				string Translation = "或許坎迪拉也能從你那學個一兩招也說不定。"
+			[137]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_3_2"
+				string Translation = "希望你能成為三個隊長繼續前進的動力！"
+			[138]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_4_0"
+				string Translation = "%PLAYERNAME%，我相信你已經做好準備。你不需要害怕阪木。"
+			[139]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_4_1"
+				string Translation = "啟動超級火箭隊雷達、追蹤阪木老大的時間到了。"
+			[140]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_4_2"
+				string Translation = "你不只在對戰中證明了自己的實力，而且還拯救了這麼多暗影寶可夢。"
+			[141]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_4_3"
+				string Translation = "用你的對戰實力和你的同理心去挑戰阪木吧！"
+			[142]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_4_4"
+				string Translation = "%PLAYERNAME%，祝你好運！"
+			[143]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_5_0"
+				string Translation = "%PLAYERNAME%，幹得好！你向GO火箭隊展現了你強大的實力。"
+			[144]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_5_1"
+				string Translation = "阪木是非常強大的對手，但你的努力和耐心讓你成功打倒了他。"
+			[145]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_5_2"
+				string Translation = "但所謂大意失荊州，%PLAYERNAME%。"
+			[146]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_5_3"
+				string Translation = "阪木不喜歡輸的感覺，所以我想他很快就會捲土重來。"
+			[147]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq5_5_4"
+				string Translation = "雖然說他再怎麼不喜歡輸的感覺，他還是註定會輸就是了。我會繼續幫你尋找磨鍊對戰技巧的機會，請你千萬不要懈怠。"
+			[148]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_0_0"
+				string Translation = "Great to see you again, %PLAYERNAME%. You’ve done such an amazing job with every challenge I’ve given you."
+			[149]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_0_1"
+				string Translation = "Congrats on coming so far as a Trainer! You constantly impress me with your skills."
+			[150]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_0_2"
+				string Translation = "But there are so many aspects to Pokémon training! I think it’s time to switch things up. I spoke with Spark, and he thought it would be good for you to focus some more on taking care of Pokémon Eggs."
+			[151]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_0_3"
+				string Translation = "Why not take a walk with your buddy Pokémon after placing some Eggs into Incubators?"
+			[152]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_0_4"
+				string Translation = "And be sure to rescue Shadow Pokémon from any Team GO Rocket members you encounter, too. Those Pokémon still need our help!"
+			[153]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_1_0"
+				string Translation = "Wonderful work, %PLAYERNAME%. While you were busy, I met up with Blanche to discuss our research on recent developments with Shadow Pokémon."
+			[154]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_1_1"
+				string Translation = "I had observed that Team GO Rocket somehow seemed to be making Shadow Pokémon deal more damage with their attacks, though they also seem to take more damage in return now. My observations line up with Blanche’s research."
+			[155]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_1_2"
+				string Translation = "Both of us are concerned that despite our best efforts to push Team GO Rocket back, they’re still gaining ground and putting more and more Pokémon in danger."
+			[156]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_1_3"
+				string Translation = "While Blanche and I continue to investigate, can we depend on you to take down some more Grunts to slow Team GO Rocket down?"
+			[157]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_1_4"
+				string Translation = "I’m also going to assign you some tasks to test you as a Trainer. Battling Grunts alone won’t keep your skills as sharp as they need to be to continue standing up to Team GO Rocket’s leaders."
+			[158]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_2_0"
+				string Translation = "Thanks for taking on those Grunts, %PLAYERNAME%."
+			[159]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_2_1"
+				string Translation = "I was working with Candela to figure out what challenges we could give you to help you prepare for battles with other Trainers and in the GO Battle League. Those skills carry over to doing battle with the Team GO Rocket Leaders, after all!"
+			[160]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_2_2"
+				string Translation = "Candela was very excited to find ways to keep you on your toes! "
+			[161]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_2_3"
+				string Translation = "Could you take on these challenges as part of your ongoing training?"
+			[162]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_3_0"
+				string Translation = "You’ve done the team leaders proud, %PLAYERNAME%!"
+			[163]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_3_1"
+				string Translation = "You took on those challenges like the skilled Trainer you are."
+			[164]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_3_2"
+				string Translation = "Great work. Now it’s time to continue the battle against Team GO Rocket."
+			[165]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_3_3"
+				string Translation = "Your efforts to rescue and purify Shadow Pokémon have certainly not gone unnoticed."
+			[166]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_3_4"
+				string Translation = "I’ll be sure to share any new findings about Team GO Rocket’s continued invasion as soon as they crop up, but right now, we should keep up the pressure on the Team GO Rocket Leaders. Good luck, %PLAYERNAME%."
+			[167]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_4_0"
+				string Translation = "Taking on the Team GO Rocket Leaders is no easy task. They have proven to be difficult opponents for even the most accomplished Trainers."
+			[168]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_4_1"
+				string Translation = "One interesting thing to note is that I’ve heard reports of Trainers rescuing Shiny Shadow Pokémon from the Team GO Rocket Leaders."
+			[169]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_4_2"
+				string Translation = "This only further supports my suspicions that Team GO Rocket is gathering large numbers of Pokémon if they’ve been able to find Shiny ones to turn into Shadow Pokémon."
+			[170]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_4_3"
+				string Translation = "There is definitely more that we need to learn about these foes and what their plans are."
+			[171]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_4_4"
+				string Translation = "For now, I need you to focus. It’s time to take on Giovanni himself. You got this, %PLAYERNAME%."
+			[172]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_5_0"
+				string Translation = "What an impressive victory, %PLAYERNAME%!"
+			[173]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_5_1"
+				string Translation = "Giovanni is one of the toughest opponents out there, but your continued efforts to improve let you rise to the challenge! After this, I’m going to talk with the team leaders to discuss how we can further support you."
+			[174]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_5_2"
+				string Translation = "You’ve been an amazing part of the team, and we wouldn’t be able to keep these villains at bay without your skills and dedication."
+			[175]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_5_3"
+				string Translation = "But we can’t drop our guard while Team GO Rocket’s around, so keep honing your battle techniques. I suggest challenging your fellow Trainers to battles and testing yourself in the GO Battle League."
+			[176]
+			Entry data
+				string Key = "quest_special_dialogue_rockethq6_5_4"
+				string Translation = "I’ll be in touch again soon, but until then, let’s GO!"
+			[177]
+			Entry data
+				string Key = "quest_time_remaining_day_plural"
+				string Translation = "{0} days left to complete this Special Research"
+			[178]
+			Entry data
+				string Key = "quest_time_remaining_day_singular"
+				string Translation = "{0} day left to complete this Special Research"
+			[179]
+			Entry data
+				string Key = "quest_title_at"
+				string Translation = "念力寶可夢的超能力"
+			[180]
+			Entry data
+				string Key = "quest_title_at_0"
+				string Translation = "念力寶可夢的超能力 (1/4)"
+			[181]
+			Entry data
+				string Key = "quest_title_at_1"
+				string Translation = "念力寶可夢的超能力 (2/4)"
+			[182]
+			Entry data
+				string Key = "quest_title_at_2"
+				string Translation = "念力寶可夢的超能力 (3/4)"
+			[183]
+			Entry data
+				string Key = "quest_title_at_3"
+				string Translation = "念力寶可夢的超能力 (4/4)"
+			[184]
+			Entry data
+				string Key = "quest_title_rockethq5"
+				string Translation = "來自暗影的威脅持續擴大"
+			[185]
+			Entry data
+				string Key = "quest_title_rockethq5_0"
+				string Translation = "來自暗影的威脅持續擴大 (1/6)"
+			[186]
+			Entry data
+				string Key = "quest_title_rockethq5_1"
+				string Translation = "來自暗影的威脅持續擴大 (2/6)"
+			[187]
+			Entry data
+				string Key = "quest_title_rockethq5_2"
+				string Translation = "來自暗影的威脅持續擴大 (3/6)"
+			[188]
+			Entry data
+				string Key = "quest_title_rockethq5_3"
+				string Translation = "來自暗影的威脅持續擴大 (4/6)"
+			[189]
+			Entry data
+				string Key = "quest_title_rockethq5_4"
+				string Translation = "來自暗影的威脅持續擴大 (5/6)"
+			[190]
+			Entry data
+				string Key = "quest_title_rockethq5_5"
+				string Translation = "來自暗影的威脅持續擴大 (6/6)"
+			[191]
+			Entry data
+				string Key = "quest_title_rockethq6"
+				string Translation = "Time to Train"
+			[192]
+			Entry data
+				string Key = "quest_title_rockethq6_0"
+				string Translation = "Time to Train (1/6)"
+			[193]
+			Entry data
+				string Key = "quest_title_rockethq6_1"
+				string Translation = "Time to Train (2/6)"
+			[194]
+			Entry data
+				string Key = "quest_title_rockethq6_2"
+				string Translation = "Time to Train (3/6)"
+			[195]
+			Entry data
+				string Key = "quest_title_rockethq6_3"
+				string Translation = "Time to Train (4/6)"
+			[196]
+			Entry data
+				string Key = "quest_title_rockethq6_4"
+				string Translation = "Time to Train (5/6)"
+			[197]
+			Entry data
+				string Key = "quest_title_rockethq6_5"
+				string Translation = "Time to Train (6/6)"
+			[198]
+			Entry data
+				string Key = "quest_wayfarer_catch_pokemon_plural"
+				string Translation = "Wayfarer bonus: Catch {0} Pokémon"
+			[199]
+			Entry data
+				string Key = "quests_claim_time_limited_quest_encounter_first"
+				string Translation = "You must complete your research encounter first!"
+			[200]
+			Entry data
+				string Key = "returned_defender_sub_section_title"
+				string Translation = "今天回到身邊的寶可夢"
+			[201]
+			Entry data
+				string Key = "returning_sign_in_partial"
+				string Translation = "Sign in with {0}"
+			[202]
+			Entry data
+				string Key = "safari_2020_dialogue_0_1"
+				string Translation = "感謝你特地來一趟，這裡有很多寶可夢等著你去探索。"
+			[203]
+			Entry data
+				string Key = "safari_2020_dialogue_0_2"
+				string Translation = "我們一起去看看吧！"
+			[204]
+			Entry data
+				string Key = "safari_2020_dialogue_1_0"
+				string Translation = "%PLAYERNAME%，看來你今天玩得很愉快呢！"
+			[205]
+			Entry data
+				string Key = "safari_2020_dialogue_1_2"
+				string Translation = "維持和其他訓練家之間的感情也是很重要的。"
+			[206]
+			Entry data
+				string Key = "safari_2020_dialogue_1_3"
+				string Translation = "一起去創造更多回憶吧！"
+			[207]
+			Entry data
+				string Key = "safari_2020_goyang_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到高陽！"
+			[208]
+			Entry data
+				string Key = "safari_2020_goyang_dialogue_1_1"
+				string Translation = "而且我們今天在高陽也增長了很多知識！"
+			[209]
+			Entry data
+				string Key = "safari_2020_goyang_title"
+				string Translation = "Safari Zone 高陽 2020"
+			[210]
+			Entry data
+				string Key = "safari_2020_goyang_title_0"
+				string Translation = "Safari Zone 高陽 2020 (1/2)"
+			[211]
+			Entry data
+				string Key = "safari_2020_goyang_title_1"
+				string Translation = "Safari Zone 高陽 2020 (2/2)"
+			[212]
+			Entry data
+				string Key = "safari_2020_liverpool_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到利物浦！"
+			[213]
+			Entry data
+				string Key = "safari_2020_liverpool_dialogue_1_1"
+				string Translation = "而且我們今天在利物浦也增長了很多知識！"
+			[214]
+			Entry data
+				string Key = "safari_2020_liverpool_title"
+				string Translation = "Safari Zone Liverpool 2020"
+			[215]
+			Entry data
+				string Key = "safari_2020_liverpool_title_0"
+				string Translation = "Safari Zone St. Louis 2020 (1/2)"
+			[216]
+			Entry data
+				string Key = "safari_2020_liverpool_title_1"
+				string Translation = "Safari Zone St. Louis 2020 (2/2)"
+			[217]
+			Entry data
+				string Key = "safari_2020_monterrey_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到蒙特雷！"
+			[218]
+			Entry data
+				string Key = "safari_2020_monterrey_dialogue_1_1"
+				string Translation = "而且我們今天在蒙特雷也增長了很多知識！"
+			[219]
+			Entry data
+				string Key = "safari_2020_monterrey_title"
+				string Translation = "Safari Zone Monterrey 2020"
+			[220]
+			Entry data
+				string Key = "safari_2020_monterrey_title_0"
+				string Translation = "Safari Zone Monterrey 2020 (1/2)"
+			[221]
+			Entry data
+				string Key = "safari_2020_monterrey_title_1"
+				string Translation = "Safari Zone Monterrey 2020 (2/2)"
+			[222]
+			Entry data
+				string Key = "safari_2020_philadelphia_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到費城！"
+			[223]
+			Entry data
+				string Key = "safari_2020_philadelphia_dialogue_1_1"
+				string Translation = "而且我們今天在費城也增長了很多知識！"
+			[224]
+			Entry data
+				string Key = "safari_2020_philadelphia_title"
+				string Translation = "Safari Zone Philadelphia 2020"
+			[225]
+			Entry data
+				string Key = "safari_2020_philadelphia_title_0"
+				string Translation = "Safari Zone Philadelphia 2020 (1/2)"
+			[226]
+			Entry data
+				string Key = "safari_2020_philadelphia_title_1"
+				string Translation = "Safari Zone Philadelphia 2020 (2/2)"
+			[227]
+			Entry data
+				string Key = "safari_2020_seville_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到塞維亞！"
+			[228]
+			Entry data
+				string Key = "safari_2020_seville_dialogue_1_1"
+				string Translation = "而且我們今天在塞維亞也增長了很多知識！"
+			[229]
+			Entry data
+				string Key = "safari_2020_seville_title"
+				string Translation = "Safari Zone Seville 2020"
+			[230]
+			Entry data
+				string Key = "safari_2020_seville_title_0"
+				string Translation = "Safari Zone Seville 2020 (1/2)"
+			[231]
+			Entry data
+				string Key = "safari_2020_seville_title_1"
+				string Translation = "Safari Zone Seville 2020 (2/2)"
+			[232]
+			Entry data
+				string Key = "safari_2020_stlouis_dialogue_0_0"
+				string Translation = "%PLAYERNAME%，歡迎來到聖路易！"
+			[233]
+			Entry data
+				string Key = "safari_2020_stlouis_dialogue_1_1"
+				string Translation = "而且我們今天在聖路易也增長了很多知識！"
+			[234]
+			Entry data
+				string Key = "safari_2020_stlouis_title"
+				string Translation = "Safari Zone St. Louis 2020"
+			[235]
+			Entry data
+				string Key = "safari_2020_stlouis_title_0"
+				string Translation = "Safari Zone St. Louis 2020 (1/2)"
+			[236]
+			Entry data
+				string Key = "safari_2020_stlouis_title_1"
+				string Translation = "Safari Zone St. Louis 2020 (2/2)"
+			[237]
+			Entry data
+				string Key = "safari_battle_singular"
+				string Translation = "Safari Zone：和其他訓練家對戰"
+			[238]
+			Entry data
+				string Key = "safari_berry_razz"
+				string Translation = "Safari Zone：捕捉寶可夢時使用 {0} 顆蔓莓果來輔助"
+			[239]
+			Entry data
+				string Key = "safari_buddy_snapshot"
+				string Translation = "Safari Zone: 為夥伴寶可夢拍1張GO Snapshot照片"
+			[240]
+			Entry data
+				string Key = "safari_evolve_singular"
+				string Translation = "Safari Zone：讓1隻寶可夢進化"
+			[241]
+			Entry data
+				string Key = "safari_rocket_plural"
+				string Translation = "Safari Zone：打敗 {0} 個GO火箭隊手下"
+			[242]
+			Entry data
+				string Key = "sign_in_partial"
+				string Translation = "Create account with {0}"
+			[243]
+			Entry data
+				string Key = "special_event_catch"
+				string Translation = "會場限定：捕捉 {0} 隻寶可夢"
+			[244]
+			Entry data
+				string Key = "special_event_gifts"
+				string Translation = "會場限定：贈送 {0} 個友情禮物給朋友"
+			[245]
+			Entry data
+				string Key = "sponsorname_2144940858"
+				string Translation = "Starbucks"
+			[246]
+			Entry data
+				string Key = "sponsorname_348022195"
+				string Translation = "Vasa"
+			[247]
+			Entry data
+				string Key = "sponsorname_427646781"
+				string Translation = "セブン−イレブン"
+			[248]
+			Entry data
+				string Key = "time_left_plural_day_hour_plural"
+				string Translation = "將在 {0} 天 {1} 小時後結束"
+			[249]
+			Entry data
+				string Key = "time_left_plural_day_hour_singular"
+				string Translation = "將在 {0} 天 {1} 小時後結束"
+			[250]
+			Entry data
+				string Key = "time_left_singular_day_hour_plural"
+				string Translation = "將在 {0} 天 {1} 小時後結束"
+			[251]
+			Entry data
+				string Key = "time_left_singular_day_hour_singular"
+				string Translation = "將在 {0} 天 {1} 小時後結束"
+			[252]
+			Entry data
+				string Key = "today_view_gym_section_title"
+				string Translation = "道館裡的寶可夢"
+			[253]
+			Entry data
+				string Key = "today_view_pokecoins_section_title"
+				string Translation = "寶可幣"
+			[254]
+			Entry data
+				string Key = "today_view_streaks_section_title"
+				string Translation = "連續成就獎勵"
+			[255]
+			Entry data
+				string Key = "today_view_tab_title"
+				string Translation = "今天"
+			[256]
+			Entry data
+				string Key = "today_view_up_next_section_title"
+				string Translation = "即將登場"
+			[257]
+			Entry data
+				string Key = "vss_season_end_notification"
+				string Translation = "GO對戰聯盟第季已結束。趕快去領獎勵吧！"
